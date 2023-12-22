@@ -1,0 +1,10 @@
+{
+	"name": "классический понг",
+	"short_name": "классический понг",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
